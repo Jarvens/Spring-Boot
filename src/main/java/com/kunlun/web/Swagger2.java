@@ -29,8 +29,8 @@ public class Swagger2 {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("Spring Boot Swagger2 RESTful API")
-                .description("更多SpringBoot相关问题请关注github:http://github.com")
-                .termsOfServiceUrl("http://www.baidu.com")
+                .description("更多SpringBoot相关问题请关注github:https://github.com/Jarvens/spring-boot")
+                .termsOfServiceUrl("https://github.com/Jarvens")
                 .contact("Kunlun")
                 .version("1.0")
                 .build();
